@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Go to work",
+    "text": "Meeting at 10am."
+  },
+  {
+    "id": 2,
+    "title": "Got to the store",
+    "text": "Get groceries for the week."
+  },
+  {
+    "id": 3,
+    "title": "complete assignment",
+    "text": "Complete and submit assignment for the week."
+  }
+]
